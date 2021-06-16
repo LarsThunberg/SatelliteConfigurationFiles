@@ -1,0 +1,90 @@
+Channel Number,Receive Frequency,Transmit Frequency,Offset Frequency,Offset Direction,Operating Mode,Name,Tone Mode,CTCSS,Rx CTCSS,DCS,DCS Polarity,Scan Sel,Bank,Bank CH #,Comment,Digital Squelch,Digital Code,Your Callsign,Rpt-1 CallSign,Rpt-2 CallSign,Filter,Data Mode
+1,145.96,435.25, ,Split,FM,AO-91Split,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,0,,Off,0,,,,1,Off
+2,435.25,435.25, ,Simplex,FM,AO-91Uplink,Tone,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,1,,Off,0,,,,1,Off
+3,145.88,435.35, ,Split,FM,AO-92 Split,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,2,,Off,0,,,,1,Off
+4,435.35,435.35, ,Simplex,FM,AO-92 Uplink,Tone,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,3,,Off,0,,,,1,Off
+5,145.9,437.5, ,Split,FM,PO-101Split,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,4,,Off,0,,,,1,Off
+6,437.5,437.5, ,Simplex,FM,PO-101Uplink,Tone,141.3 Hz,141.3 Hz,23,Both N,All,03: Satellite,5,,Off,0,,,,1,Off
+7,437.8,145.99, ,Split,FM,ISS Split,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,6,,Off,0,,,,1,Off
+8,145.99,145.99, ,Simplex,FM,ISS Uplink,Tone,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,7,,Off,0,,,,1,Off
+9,145.8,145.8, ,Simplex,FM,ISS SSTV,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,8,,Off,0,,,,1,Off
+10,436.795,145.85, ,Split,FM,SO-50 Split,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,9,,Off,0,,,,1,Off
+11,145.85,145.85, ,Simplex,FM,SO-50 Uplink,Tone,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,10,,Off,0,,,,1,Off
+12,436.795,145.85, ,Split,FM,AO-27 Split,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,11,,Off,0,,,,1,Off
+13,145.85,145.85, ,Simplex,FM,AO-27 Uplink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,12,,Off,0,,,,1,Off
+14,437.2,144.35, ,Split,FM,LilacSat-2 Split,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,13,,Off,0,,,,1,Off
+15,144.35,144.35, ,Simplex,FM,LilacSat-2 Uplin,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,14,,Off,0,,,,1,Off
+16,435.64,145.965, ,Split,USB,RS-44 Split,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,15,,,,,,,2,Off
+17,435.64,435.64, ,Simplex,USB,RS-44 Downlink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,16,,,,,,,2,Off
+18,145.965,145.965, ,Simplex,LSB,RS-44 Uplink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,17,,,,,,,2,Off
+19,145.95,432.15, ,Split,USB,AO-7 Split,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,18,,,,,,,2,Off
+20,145.95,145.95, ,Simplex,USB,AO-7 Downlink B,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,19,,,,,,,2,Off
+21,432.15,432.15, ,Simplex,LSB,AO-7 Uplink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,20,,,,,,,2,Off
+22,435.85,145.95, ,Split,USB,FO-29 Split,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,21,,,,,,,2,Off
+23,435.85,435.85, ,Simplex,USB,FO-29 Downlink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,22,,,,,,,2,Off
+24,145.95,145.95, ,Simplex,LSB,FO-29 Uplink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,23,,,,,,,2,Off
+25,145.675,435.04, ,Split,USB,XW-2A Split,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,24,,,,,,,2,Off
+26,145.675,145.675, ,Simplex,USB,XW-2A Downlink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,25,,,,,,,2,Off
+27,435.04,435.04, ,Simplex,LSB,XW-2A Uplink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,26,,,,,,,2,Off
+28,145.74,435.1, ,Split,USB,XW-2B Split,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,27,,,,,,,2,Off
+29,145.74,145.74, ,Simplex,USB,XW-2B Downlink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,28,,,,,,,2,Off
+30,435.1,435.1, ,Simplex,LSB,XW-2B Uplink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,29,,,,,,,2,Off
+31,145.805,435.16, ,Split,USB,XW-2C Split,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,30,,,,,,,2,Off
+32,145.805,145.805, ,Simplex,USB,XW-2C Downlink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,31,,,,,,,2,Off
+33,435.16,435.16, ,Simplex,LSB,XW-2C Uplink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,32,,,,,,,2,Off
+34,145.87,435.22, ,Split,USB,XW-2D Split,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,33,,,,,,,2,Off
+35,145.87,145.87, ,Simplex,USB,XW-2D Downlink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,34,,,,,,,2,Off
+36,435.22,435.22, ,Simplex,LSB,XW-2D Uplink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,35,,,,,,,2,Off
+37,145.99,435.34, ,Split,USB,XW-2F Split,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,36,,,,,,,2,Off
+38,145.99,145.99, ,Simplex,USB,XW-2F Downlink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,37,,,,,,,2,Off
+39,435.34,435.34, ,Simplex,LSB,XW-2F Uplink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,38,,,,,,,2,Off
+40,145.96,435.15, ,Split,USB,AO-73 Split,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,39,,,,,,,2,Off
+41,145.96,145.96, ,Simplex,USB,AO-73 Downlink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,40,,,,,,,2,Off
+42,435.15,435.15, ,Simplex,LSB,AO-73 Uplink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,41,,,,,,,2,Off
+43,435.895,145.915, ,Split,USB,FO-99 Split,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,42,,,,,,,2,Off
+44,435.895,435.895, ,Simplex,USB,FO-99 Downlink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,43,,,,,,,2,Off
+45,145.915,145.915, ,Simplex,LSB,FO-99 Uplink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,44,,,,,,,2,Off
+46,145.975,435.03, ,Split,USB,EO-88 Split,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,45,,,,,,,2,Off
+47,145.975,145.975, ,Simplex,USB,EO-88 Downlink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,46,,,,,,,2,Off
+48,435.03,435.03, ,Simplex,LSB,EO-88 Uplink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,47,,,,,,,2,Off
+49,145.87,435.22, ,Split,USB,CAS-4A Split,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,48,,,,,,,2,Off
+50,145.87,145.87, ,Simplex,USB,CAS-4A Downlink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,49,,,,,,,2,Off
+51,435.22,435.22, ,Simplex,LSB,CAS-4A Uplink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,50,,,,,,,2,Off
+52,145.925,435.28, ,Split,USB,CAS-4B Split,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,51,,,,,,,2,Off
+53,145.925,145.925, ,Simplex,USB,CAS-4B Downlink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,52,,,,,,,2,Off
+54,435.28,435.28, ,Simplex,LSB,CAS-4B Uplink,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,53,,,,,,,2,Off
+55,145.96,435.24, ,Split,FM,AO-91AOS,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,54,,Off,0,,,,1,Off
+56,145.96,435.245, ,Split,FM,AO-91,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,55,,Off,0,,,,1,Off
+57,145.96,435.25, ,Split,FM,AO-91Mid,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,56,,Off,0,,,,1,Off
+58,145.96,435.255, ,Split,FM,AO-91,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,57,,Off,0,,,,1,Off
+59,145.96,435.26, ,Split,FM,AO-91LOS,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,58,,Off,0,,,,1,Off
+60,145.88,435.34, ,Split,FM,AO-92 AOS,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,59,,Off,0,,,,1,Off
+61,145.88,435.345, ,Split,FM,AO-92,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,60,,Off,0,,,,1,Off
+62,145.88,435.35, ,Split,FM,AO-92 Mid,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,61,,Off,0,,,,1,Off
+63,145.88,435.355, ,Split,FM,AO-92,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,62,,Off,0,,,,1,Off
+64,145.88,435.36, ,Split,FM,AO-92 LOS,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,63,,Off,0,,,,1,Off
+65,145.9,437.49, ,Split,FM,PO-101 AOS,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,64,,Off,0,,,,1,Off
+66,145.9,437.495, ,Split,FM,PO-101,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,65,,Off,0,,,,1,Off
+67,145.9,437.5, ,Split,FM,PO-101 Mid,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,66,,Off,0,,,,1,Off
+68,145.9,437.505, ,Split,FM,PO-101,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,67,,Off,0,,,,1,Off
+69,145.9,437.51, ,Split,FM,PO-101 LOS,None,88.5 Hz,88.5 Hz,23,Both N,All,03: Satellite,68,,Off,0,,,,1,Off
+70,437.81,145.99, ,Split,FM,ISS AOS,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,69,,Off,0,,,,1,Off
+71,437.805,145.99, ,Split,FM,ISS,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,70,,Off,0,,,,1,Off
+72,437.8,145.99, ,Split,FM,ISS Mid,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,71,,Off,0,,,,1,Off
+73,437.795,145.99, ,Split,FM,ISS,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,72,,Off,0,,,,1,Off
+74,437.79,145.99, ,Split,FM,ISS LOS,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,73,,Off,0,,,,1,Off
+75,436.805,145.85, ,Split,FM,SO-50 AOS,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,74,,Off,0,,,,1,Off
+76,436.8,145.85, ,Split,FM,SO-50,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,75,,Off,0,,,,1,Off
+77,436.795,145.85, ,Split,FM,SO-50 Mid,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,76,,Off,0,,,,1,Off
+78,436.79,145.85, ,Split,FM,SO-50,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,77,,Off,0,,,,1,Off
+79,436.785,145.85, ,Split,FM,SO-50 LOS,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,78,,Off,0,,,,1,Off
+80,436.805,145.85, ,Split,FM,AO-27 AOS,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,79,,Off,0,,,,1,Off
+81,436.8,145.85, ,Split,FM,AO-27,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,80,,Off,0,,,,1,Off
+82,436.795,145.85, ,Split,FM,AO-27 Mid,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,81,,Off,0,,,,1,Off
+83,436.79,145.85, ,Split,FM,AO-27,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,82,,Off,0,,,,1,Off
+84,436.785,145.85, ,Split,FM,AO-27 LOS,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,83,,Off,0,,,,1,Off
+85,437.21,144.35, ,Split,FM,LilacSat-2 AOS,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,84,,Off,0,,,,1,Off
+86,437.205,144.35, ,Split,FM,LilacSat-2,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,85,,Off,0,,,,1,Off
+87,437.2,144.35, ,Split,FM,LilacSat-2 Mid,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,86,,Off,0,,,,1,Off
+88,437.195,144.35, ,Split,FM,LilacSat-2,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,87,,Off,0,,,,1,Off
+89,437.19,144.35, ,Split,FM,LilacSat-2 LOS,None,67.0 Hz,67.0 Hz,23,Both N,All,03: Satellite,88,,Off,0,,,,1,Off
