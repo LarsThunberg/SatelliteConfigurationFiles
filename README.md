@@ -5,7 +5,7 @@ Different configuration files for amateur radio satellite software and hardware.
 Memory group file over satellite frequencies for Icom IC-705 and CS-705 software. More info at:
 https://www.amsat.se/2020/11/12/satellite-memory-file-for-ic-705/
 
-## IC-705_SatFrqMemGroup_commasepareated.csv
+## IC-705_SatFrqMemGroup_commaseparated.csv
 Memory group file over satellite frequencies for Icom IC-705 and CS-705 software, comma separated. More info at:
 https://www.amsat.se/2020/11/12/satellite-memory-file-for-ic-705/
 
