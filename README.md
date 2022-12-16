@@ -1,6 +1,9 @@
 # SatelliteConfigurationFiles
 Different configuration files for amateur radio satellite software and hardware. Most of the files are described on AMSAT-SM website, see link to posts under each files.
 
+## IC-705_IC-9700_SatelliteFiles.zip
+Latest files for IC-705 and IC-9700 combined into one zip-file for easy download, as some has problem downloading the individual files from Github.
+
 ## IC-705_SatFrqMemGroup.csv
 Memory group file over satellite frequencies for Icom IC-705 and CS-705 software. More info at:
 https://www.amsat.se/2020/11/12/satellite-memory-file-for-ic-705/
