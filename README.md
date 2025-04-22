@@ -19,11 +19,11 @@ https://www.amsat.se/2020/11/12/satellite-memory-file-for-ic-705/
 
 ## IC-9700_SatFrqMemGroup.csv
 Memory group file over satellite frequencies for Icom IC-9700 and CS-9700 software. More info at:
-[https://www.amsat.se/2020/11/12/satellite-memory-file-for-ic-705/](https://www.amsat.se/2022/01/17/satellite-memory-file-for-ic-9700/)
+https://www.amsat.se/2022/01/17/satellite-memory-file-for-ic-9700/
 
 ## IC-9700_SatFrqMemGroup_commaseparated.csv
 Memory group file over satellite frequencies for Icom IC-9700 and CS-9700 software, comma separated. More info at:
-[https://www.amsat.se/2020/11/12/satellite-memory-file-for-ic-705/](https://www.amsat.se/2022/01/17/satellite-memory-file-for-ic-9700/)
+https://www.amsat.se/2022/01/17/satellite-memory-file-for-ic-9700/
 
 ## SDR_SAT_Custom_data.zip
 Custom frequency data for both up- and downlink for many satellites, for the SDR Console software. More info at:
